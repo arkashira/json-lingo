@@ -1,2 +1,4 @@
 # json-lingo
-JSON translation tool
+Validate JSON files against a schema.
+
+## Usage

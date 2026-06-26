@@ -4,8 +4,8 @@ build-backend = "poetry.masonry.api"
 
 [tool.poetry]
 name = "json-lingo"
-version = "1.0.0"
-description = "JSON translation tool"
+version = "0.1.0"
+description = ""
 
 [tool.poetry.dependencies]
 python = "^3.8"
